@@ -10,6 +10,7 @@ func main() {
 	// reader.ReaderReadVsIoutilReadAllExample()
 	// writer.WriterExample()
 	// writer.FmtFprintVsWriterWrite()
-	writer.WriterAdvancedExample()
+	// writer.WriterAdvancedExample()
+	writer.NetConnReaderWriter()
 }
 
