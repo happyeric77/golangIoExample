@@ -1,0 +1,3 @@
+Write this string into WriterWrite this string into os.File(Writer)Write this string into os.File(Writer)
+Write this string into os.File(Writer)
+Write this string into os.File(Writer)
